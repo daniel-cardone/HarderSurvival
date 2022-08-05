@@ -1,0 +1,4 @@
+name: HarderSurvival
+version: '${project.version}'
+main: us.bluescript.hardersurvival.HarderSurvival
+api-version: 1.19
